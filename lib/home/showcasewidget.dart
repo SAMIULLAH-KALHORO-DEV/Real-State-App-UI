@@ -81,7 +81,7 @@ class ShowCaseWidget extends StatelessWidget {
                             color: Colors.blue,
                             size: 18,
                           ),
-                          Text("Paris, France"),
+                          Text("Paris, Miami"),
                         ],
                       ),
                       SizedBox(height: 5),

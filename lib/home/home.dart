@@ -11,7 +11,7 @@ class Home extends StatelessWidget {
       'All',
       'Apartments',
       'Houses',
-      'Flats',
+      'Flates',
       'Hotels',
     ];
     return Scaffold(
