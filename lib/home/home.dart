@@ -9,10 +9,10 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     List<String> rowList = [
       'All',
-      'Apartments',
-      'Houses',
-      'Flates',
-      'Hotels',
+      'Apartment',
+      'House',
+      'Flate',
+      'Hotel',
     ];
     return Scaffold(
       backgroundColor: Colors.white,
