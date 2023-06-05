@@ -8,11 +8,11 @@ class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     List<String> rowList = [
-      'All',
-      'Apartment',
-      'House',
-      'Flate',
-      'Hotel',
+      'Alls',
+      'Apartments',
+      'Houses',
+      'Flates',
+      'Hotels',
     ];
     return Scaffold(
       backgroundColor: Colors.white,

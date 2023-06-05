@@ -63,7 +63,7 @@ class ShowCaseWidget extends StatelessWidget {
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
-                          Text("Emerland House",
+                          Text("Emerland Houses",
                               style: Theme.of(context).textTheme.titleLarge),
                           Row(
                             children: [
@@ -86,7 +86,7 @@ class ShowCaseWidget extends StatelessWidget {
                       ),
                       SizedBox(height: 5),
                       Text(
-                        "The room is located inthe center of Paris, There is a terrace on site",
+                        "The room is located in the center of Paris, There is a terrace on site",
                       ),
                       Row(
                         children: [
