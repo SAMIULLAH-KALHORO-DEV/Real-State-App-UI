@@ -86,7 +86,7 @@ class ShowCaseWidget extends StatelessWidget {
                       ),
                       SizedBox(height: 5),
                       Text(
-                        "The room is located in the center of Paris, There is a terrace on site",
+                        "The room is located in the Prime Place of Paris, There is a terrace on site",
                       ),
                       Row(
                         children: [
