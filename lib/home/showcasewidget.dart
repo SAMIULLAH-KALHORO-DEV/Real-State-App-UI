@@ -16,7 +16,7 @@ class ShowCaseWidget extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Container(
-                height: 300,
+                height: 310,
                 width: MediaQuery.of(context).size.width / 2 + 50,
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
